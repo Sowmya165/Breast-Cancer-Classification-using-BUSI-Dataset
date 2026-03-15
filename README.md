@@ -6,7 +6,7 @@
 
 **Institution:** Indian Institute of Information Technology Raichur  
 
-**Course:** Foundations of Machine Learning  
+**Course:** Deep Learning for Medical Imaging  
 
 ## 📌 Project Overview
 This project implements a deep learning classification system for breast ultrasound images. The model categorizes images into three diagnostic classes: **Benign, Malignant, and Normal** tissue. The core objective of this study is to evaluate the effectiveness of dynamic data augmentation in preventing neural network overfitting on limited medical imaging data.
